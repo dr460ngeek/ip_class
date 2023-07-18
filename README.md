@@ -1,1 +1,1 @@
-## This is basically what I practiced in Information Practice during classes and practice sessions.
+## This is basically what I practiced in Informatics Practice during classes and practice sessions.
