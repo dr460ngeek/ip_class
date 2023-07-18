@@ -24,4 +24,12 @@ def main():
   print("10 / 5 = ", divide(x, y))
 
 if __name__ == "__main__":
+<<<<<<< HEAD
   main()
+=======
+  main()
+import pandas as pd1
+data1 = [{'x': 1, 'y': 2},{'x': 5, 'y': 4, 'z': 5}]
+df1 = pd1.DataFrame(data1)
+print (df1)
+>>>>>>> d323d88 (Added changes to calc.py)
