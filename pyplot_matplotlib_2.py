@@ -14,5 +14,5 @@ plt.xlabel("Year")
 plt.ylabel("Percentage")
 plt.legend()
 
-plt.savefig('Result.png')
+# plt.savefig('Result.png')
 plt.show()

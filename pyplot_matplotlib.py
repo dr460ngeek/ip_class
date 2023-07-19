@@ -5,5 +5,5 @@ plt.plot(dist,time, linestyle = '-.', marker = 'x')
 plt.xlabel('Distance in kilometer')
 plt.ylabel('Time in minute')
 plt.title('Graph of Distance Vs Time')
-plt.savefig('Line1.png') #png, jpeg, pdf, svg
+# plt.savefig('Line1.png') #png, jpeg, pdf, svg
 plt.show()
